@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8105" started-at="2020-12-12T06:21:18Z" finished-at="2020-12-12T06:21:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8105" started-at="2020-12-12T06:21:18Z" finished-at="2020-12-12T06:21:26Z">
+      <class name="test.TestPhpSite">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.TestPhpSite@29ca901e]" name="beforeMethod" is-config="true" duration-ms="5634" started-at="2020-12-12T06:21:18Z" finished-at="2020-12-12T06:21:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="openAndVerifySite()[pri:0, instance:test.TestPhpSite@29ca901e]" name="openAndVerifySite" duration-ms="1230" started-at="2020-12-12T06:21:24Z" finished-at="2020-12-12T06:21:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAndVerifySite -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:test.TestPhpSite@29ca901e]" name="afterMethod" is-config="true" duration-ms="1120" started-at="2020-12-12T06:21:25Z" finished-at="2020-12-12T06:21:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- test.TestPhpSite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
